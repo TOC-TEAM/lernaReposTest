@@ -7,6 +7,7 @@
   "repository": "TOC-TEAM/miniapp-axios",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
+  "private": true,
   "jsnext:main": "dist/index.es.js",
   "engines": {
     "node": ">=8",
