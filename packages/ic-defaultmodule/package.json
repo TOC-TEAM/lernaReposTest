@@ -80,5 +80,8 @@
     "errorOnDeprecated": true,
     "globals": {},
     "verbose": true
+  },
+  "dependencies": {
+    "ic-codemodule": "^1.0.2"
   }
 }
