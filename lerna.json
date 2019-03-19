@@ -1,0 +1,15 @@
+{
+	"packages": [
+		"packages/*"
+	],
+	"version": "independent",
+	"command": {
+		"publish": {
+			"allowBranch": [
+				"master",
+				"release/**"
+			],
+			"message": "chore(release): publish %s"
+		}
+	}
+}
