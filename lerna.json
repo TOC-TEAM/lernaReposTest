@@ -11,5 +11,9 @@
 			],
 			"message": "chore(release): publish"
 		}
+	},
+	"version": {
+		"conventionalCommits": true,
+		"changelogPreset": "angular"
 	}
 }
