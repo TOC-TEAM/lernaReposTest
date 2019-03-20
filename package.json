@@ -7,6 +7,6 @@
 		"lint-staged": "^8.1.5"
 	},
 	"lint-staged": {
-		"*.md": "echo 'sssss' >> "
+		"*.js": ["prettier --config ./.prettierrc --write"]
 	}
 }
