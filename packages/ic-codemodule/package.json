@@ -80,5 +80,6 @@
     "errorOnDeprecated": true,
     "globals": {},
     "verbose": true
-  }
+  },
+  "gitHead": "1a2265da80fa9e5185d3f55de4dedfa4db678d4b"
 }
