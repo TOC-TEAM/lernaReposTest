@@ -4,5 +4,7 @@ export default async function delayPromise(str, ms = 0) {
   });
   console.log('sss');
   console.log('sss');
+  console.log('sss');
+  console.log('sss');
   return await promise;
 }
