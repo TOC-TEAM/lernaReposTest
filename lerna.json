@@ -11,5 +11,15 @@
 			],
 			"message": "chore(release): publish"
 		}
+	},
+	"changelog": {
+		"repo": "TOC-TEAM/lernaReposTest",
+		"labels": {
+			"enhancement": ":rocket: Enhancement",
+			"bug": ":bug: Bug Fix",
+			"doc": "Refine Doc",
+			"feat": "New Feature"
+		},
+		"cacheDir": ".changelog"
 	}
 }

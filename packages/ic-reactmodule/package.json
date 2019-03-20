@@ -1,6 +1,6 @@
 {
   "name": "ic-reactmodule",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "author": "xiaolei",
   "license": "MIT",
@@ -66,6 +66,6 @@
     "verbose": true
   },
   "dependencies": {
-    "ic-codemodule": "^1.0.4"
+    "ic-codemodule": "^1.0.5"
   }
 }
