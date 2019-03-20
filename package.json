@@ -7,6 +7,6 @@
 		"lint-staged": "^8.1.5"
 	},
 	"lint-staged": {
-		"*": "echo 111"
+		"*": "echo 111 > ./README.md"
 	}
 }
