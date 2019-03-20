@@ -1,6 +1,6 @@
 {
   "name": "ic-defaultmodule",
-  "version": "1.0.6",
+  "version": "2.0.0",
   "description": "",
   "author": "xiaolei",
   "license": "MIT",
@@ -82,7 +82,7 @@
     "verbose": true
   },
   "dependencies": {
-    "ic-codemodule": "^1.0.6"
+    "ic-codemodule": "^2.0.0"
   },
   "gitHead": "1a2265da80fa9e5185d3f55de4dedfa4db678d4b"
 }
