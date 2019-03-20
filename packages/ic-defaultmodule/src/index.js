@@ -3,6 +3,5 @@ export default async function delayPromise(str, ms = 0) {
     setTimeout(() => resolve(str), ms);
   });
   console.log('default');
-  console.log('default');
   return await promise;
 }
