@@ -34,18 +34,20 @@ const gen = (module.exports = async version => {
     fs.readFileSync(changelogPath, {
       encoding: 'utf8',
     });
+  console.log(changelogPath);
   fs.writeFileSync(changelogPath, newChangelog);
 
-  delete process.env.PREFIX;
-  await execa('git', ['add', '-A'], {
-    stdio: 'inherit',
-  });
-  await execa('git', ['commit', '-m', `chore: ${version} changelog [ci skip]`], {
-    stdio: 'inherit',
-  });
+  // delete process.env.PREFIX;
+  // await execa('git', ['add', '-A'], {
+  //   stdio: 'inherit',
+  // });
+  // await execa('git', ['commit', '-m', `chore: ${version} changelog [ci skip]`], {
+  //   stdio: 'inherit',
+  // });
 });
 
 if (process.argv[2] === 'run') {
+  console.log(process.argv[2]);
   const version = require('../lerna.json').version;
   gen(version);
 }
