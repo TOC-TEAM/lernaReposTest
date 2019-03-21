@@ -8,12 +8,12 @@
 			"allowBranch": [
 				"master",
 				"release/**"
-			],
-			"message": "chore(release): publish"
+			]
 		},
 		"version": {
 			"conventionalCommits": true,
-			"changelogPreset": "angular"
+			"changelogPreset": "angular",
+			"message": "chore(release): publish %s"
 		}
 	}
 }
