@@ -2,12 +2,12 @@ const fs = require('fs');
 const path = require('path');
 const execa = require('execa');
 const cc = require('conventional-changelog');
-const config = require('@vue/conventional-changelog');
+// const config = require('@vue/conventional-changelog');
 
 function genNewRelease(version) {
   return new Promise(resolve => {
     const newReleaseStream = cc({
-      config,
+      // config,
       releaseCount: 2,
       pkg: {
         transform(pkg) {
