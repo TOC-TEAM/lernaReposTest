@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.2](https://github.com/xiaolei/ic-defaultmodule/compare/ic-defaultmodule@2.2.1...ic-defaultmodule@2.2.2) (2019-03-21)
+
+
+### Bug Fixes
+
+* lerna======\\\\\///////////111 ([471ec21](https://github.com/xiaolei/ic-defaultmodule/commit/471ec21))
+
+
+
+
+
 ## [2.2.1](https://github.com/xiaolei/ic-defaultmodule/compare/ic-defaultmodule@2.2.0...ic-defaultmodule@2.2.1) (2019-03-21)
 
 **Note:** Version bump only for package ic-defaultmodule
