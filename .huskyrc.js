@@ -3,6 +3,6 @@ module.exports = {
   hooks: {
     'pre-commit': task(['echo "======"', 'lint-staged', 'echo "======"']),
     'commit-msg': 'commitlint -E HUSKY_GIT_PARAMS',
-    'post-commit': 'standard-version',
+    // 'post-commit': 'standard-version',
   },
 };
