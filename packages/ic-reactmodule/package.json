@@ -66,7 +66,8 @@
     "verbose": true
   },
   "dependencies": {
-    "ic-codemodule": "^2.0.6"
+    "ic-codemodule": "^2.0.6",
+    "miniapp-axios": "^2.2.2"
   },
   "gitHead": "1a2265da80fa9e5185d3f55de4dedfa4db678d4b"
 }
