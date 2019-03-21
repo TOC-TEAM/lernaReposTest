@@ -3,6 +3,6 @@ module.exports = {
   hooks: {
     'pre-commit': task(['echo "======"', 'lint-staged', 'echo "======"']),
     'commit-msg': 'commitlint -E HUSKY_GIT_PARAMS',
-    'post-commit': 'conventional-changelog -p angular -i -o CHANGELOG.md -w -r 0',
+    'post-commit': 'standard-version',
   },
 };
