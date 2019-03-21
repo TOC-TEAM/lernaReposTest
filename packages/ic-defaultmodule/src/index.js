@@ -5,6 +5,8 @@ export default async function delayPromise(str, ms = 0) {
 	});
 	console.log('default');
 	console.log('default');
+	console.log('default');
+	console.log('default');
 
 	return await promise;
 }
