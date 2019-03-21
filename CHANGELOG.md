@@ -1,3 +1,20 @@
+# Change Log
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+# [0.3.0](https://github.com/TOC-TEAM/lernaReposTest/compare/v0.2.0...v0.3.0) (2019-03-21)
+
+
+### Features
+
+* add changelog ([0f0d3f0](https://github.com/TOC-TEAM/lernaReposTest/commit/0f0d3f0))
+* test add changelog ([de1d3fc](https://github.com/TOC-TEAM/lernaReposTest/commit/de1d3fc))
+* test add changelog standard-version ([f6e5b00](https://github.com/TOC-TEAM/lernaReposTest/commit/f6e5b00))
+* test add changelog222 ([eae44ee](https://github.com/TOC-TEAM/lernaReposTest/commit/eae44ee))
+* test packaaaaaaa ([3a20327](https://github.com/TOC-TEAM/lernaReposTest/commit/3a20327))
+
+
+
 ## [0.2.1](https://github.com/TOC-TEAM/lernaReposTest/compare/v0.2.0...v0.2.1) (2019-03-21)
 
 
@@ -39,6 +56,3 @@
 * init project ([00b5ccd](https://github.com/TOC-TEAM/lernaReposTest/commit/00b5ccd))
 * support baseURL ([32924ed](https://github.com/TOC-TEAM/lernaReposTest/commit/32924ed))
 * support timeout option ([9ecf48b](https://github.com/TOC-TEAM/lernaReposTest/commit/9ecf48b))
-
-
-
