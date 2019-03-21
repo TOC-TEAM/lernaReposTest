@@ -1,6 +1,6 @@
 {
   "name": "ic-defaultmodule",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "description": "",
   "author": "xiaolei",
   "license": "MIT",
@@ -83,7 +83,7 @@
   },
   "dependencies": {
     "ic-codemodule": "^2.0.6",
-    "ic-reactmodule": "^2.0.7"
+    "ic-reactmodule": "^2.0.8"
   },
   "gitHead": "1a2265da80fa9e5185d3f55de4dedfa4db678d4b"
 }
