@@ -16,6 +16,9 @@
 			"path": "./node_modules/cz-conventional-changelog"
 		}
 	},
+	"script": {
+		"commit": "git-cz"
+	},
 	"dependencies": {
 		"conventional-changelog": "^3.0.6",
 		"lerna-changelog": "^0.8.2"
