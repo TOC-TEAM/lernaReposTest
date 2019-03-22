@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.10](https://github.com/xiaolei/ic-reactmodule/compare/ic-reactmodule@2.0.9...ic-reactmodule@2.0.10) (2019-03-22)
+
+**Note:** Version bump only for package ic-reactmodule
+
+
+
+
+
 ## [2.0.9](https://github.com/xiaolei/ic-reactmodule/compare/ic-reactmodule@2.0.8...ic-reactmodule@2.0.9) (2019-03-22)
 
 **Note:** Version bump only for package ic-reactmodule

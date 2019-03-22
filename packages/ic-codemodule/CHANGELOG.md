@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://github.com/xiaolei/ic-codemodule/compare/ic-codemodule@2.1.0...ic-codemodule@2.2.0) (2019-03-22)
+
+
+### Features
+
+* test --conventional-commits in lerna publish --amend ([986a4e2](https://github.com/xiaolei/ic-codemodule/commit/986a4e2))
+
+
+
+
+
 # [2.1.0](https://github.com/xiaolei/ic-codemodule/compare/ic-codemodule@2.0.6...ic-codemodule@2.1.0) (2019-03-22)
 
 
